@@ -1,4 +1,4 @@
-# Hi there, I'm WarthaDev - aka [Wartha Sensei][youtube]👋 
+# Hello Everyone, I'm WarthaDev - aka [Wartha Sensei][youtube] | [Hewartsu][spotify] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl-9254m-uLrnmWXyd2RxoQ?color=success&label=subscribers%20wartha%20sensei%20&logo=YouTube&style=for-the-badge)][YouTube]
 ![Twitter Follow](https://img.shields.io/twitter/follow/banu485?color=success&label=Follow%20Hewartsu&logo=Twitter&style=for-the-badge)
@@ -6,20 +6,40 @@
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
 [![Download Mods MinecraftJava Edition](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
-
 ## Who I Really Am
 
-- App Developer with (Android & Web)
-- Content Creator on YouTube
-- Music Composer
-- Gamers 
-- Like Mod Games
-- And Likes a anime One Piece
+- App Developer with (Android & Web) ⚡
+- Content Creator on YouTube ⚡
+- Music Composer ⚡
+- Gamers ⚡
+- Like Mod Games ⚡
+- And Likes a anime One Piece ⚡
+
+## Baca Keterangan Channel Youtube Wartha  Sensei
+
+- Kami membuka sesi tanya jawab di perselisihan (Discord).
+- Kami juga terbuka untuk saran mod selanjutnya atau request selanjutnya untuk video di perselisihan (Discord).
+- Jika mod minecraft java edition telah diunggah dihalaman YouTube Wartha Sensei, maka link tautan download akan disisipkan dideskripsi dibawah halaman ini.
+- Halaman ini bertujuan untuk para pencinta atau komunitas yang telah subcribe channel Wartha Sensei.
+- Kami 100% hanya penyedia atau perantara, untuk penghubung antara kamu dengan pihak penyedia yang sangat safe. Seperti curseforge.com
+- Dihari mendatang, kami akan membuat projek mod minecraft yang berbeda. Entah kapan...
+- Kami juga berharap akan menyediakan mod minecraft bedrock edition.
+- Video  yang  akan  datang kami akan  mengupload genre game  yang lain selain Minecraft  saja.
+- Jika kalian ini berkontribusi donasilah. Link ada  bipaling bawah  deskripsi. Menyediakan Paypal, Saweria.
 
 ### Connect with me:
 
-[<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />][facebook]
-[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />][twitter]
+[<img align="left" alt="Youtube" width="28px" src="./icons/youtubeplay.svg" style="padding-right:10px;" />][youtube]
+[<img align="left" alt="Discord" width="26px" src="./icons/discord.svg" style="padding-right:10px;" />][discord]
+[<img align="left" alt="Facebook" width="26px" src="./icons/facebook.svg" style="padding-right:10px;" />][facebook]
+[<img align="left" alt="Twitter" width="26px" src="./icons/twitter.svg" style="padding-right:10px;" />][twitter]
+[<img align="left" alt="Instagram" width="26px" src="./icons/instagram.svg" style="padding-right:10px;" />][instagram]
+[<img align="left" alt="ShoundCloud" width="26px" src="./icons/soundcloud.svg" style="padding-right:10px;" />][soundcloud]
+[<img align="left" alt="Spotify" width="26px" src="./icons/spotify.svg" style="padding-right:10px;" />][spotify]
+[<img align="left" alt="Itunes" width="26px" src="./icons/itunes.svg" style="padding-right:10px;" />][apple]
+[<img align="left" alt="Amazon" width="26px" src="./icons/amazon.svg" style="padding-right:10px;" />][amazon]
+
+</br>
 
 ### Languages and Tools:
 
@@ -51,60 +71,36 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 List Download Mods Minecraft Java  Edition (ShowcaseWartha Sensei)
 
 <!-- YOUTUBE:START -->
-- [Fastest Upgrade to React 18!! Only 1 Second! 🤯](https://www.youtube.com/watch?v=JLyVyURIWG0)
-- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/watch?v=1ktrrwasouc)
-- [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/watch?v=oQBRZMo0e34)
-- [BEST Mint From Site &lpar;dapp&rpar; - Entire Process! Whitelist &amp; Launch an NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
-- [ULTIMATE Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - PFP Generator](https://www.youtube.com/watch?v=quGdJweadFM)
+- [Java Edition](https://www.youtube.com/watch?v=JLyVyURIWG0)
+- [Tutorial Download](https://www.youtube.com/watch?v=1ktrrwasouc)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [Video Showcase Selengkapnya...](https://www.youtube.com/watch?v=GZ6pV6drdYo&list=PLzcvJwHyJlCfFWjeJ6TDTGqfQccRkHtC7)
 
 ---
+### 💲💲 Donation 💲💲
 
-### 📕 Latest Blog Posts
+</br>
 
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
+[<img align="left" alt="Paypal" width="60px" src="./icons/paypal.svg" style="padding-right:35px;" />][paypal]
+[<img align="left" alt="Saweria" width="60px" src="./icons/download.png" style="padding-right:35px;" />][saweria]
 
-➡️ [more blog posts...](https://codestackr.com)
 
----
+<img align="right" alt="WarthaDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WarthaDev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-<!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[twitter]: https://twitter.com/banu485
-[facebook]: https://facebook.com/hewartsu
 [youtube]: https://youtube.com/c/warthasensei
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[discord]: https://discord.gg/sRMcaJtJdY
+[facebook]: https://facebook.com/hewartsu28
+[twitter]: https://twitter.com/banu485
+[instagram]: https://instagram.com/hewartsu
+[soundcloud]: https://soundcloud.com/hewartsu
+[spotify]: http://spoti.fi/3wCgFAJ
+[apple]: http://apple.co/3DeI1Oq
+[amazon]: http://amzn.to/3tIGbCA
+[paypal]: https://paypal.me/hewartsu?country.x=ID&locale.x=id_ID
+[saweria]: https://saweria.co/Warth
+
