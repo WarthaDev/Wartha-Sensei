@@ -1,4 +1,4 @@
-# Hi there, I'm WarthaDev 👋 
+# Hi there, I'm WarthaDev - aka [Wartha Sensei] [YouTube]👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl-9254m-uLrnmWXyd2RxoQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
