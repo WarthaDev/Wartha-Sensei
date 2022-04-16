@@ -39,7 +39,8 @@
 [<img align="left" alt="Itunes" width="26px" src="./icons/itunes.svg" style="padding-right:10px;" />][apple]
 [<img align="left" alt="Amazon" width="26px" src="./icons/amazon.svg" style="padding-right:10px;" />][amazon]
 
-</br>
+<br />
+<br />
 
 ### Languages and Tools:
 
@@ -88,6 +89,7 @@
 [<img align="left" alt="Paypal" width="60px" src="./icons/paypal.svg" style="padding-right:35px;" />][paypal]
 [<img align="left" alt="Saweria" width="60px" src="./icons/download.png" style="padding-right:35px;" />][saweria]
 
+<br />
 
 <img align="right" alt="WarthaDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WarthaDev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
