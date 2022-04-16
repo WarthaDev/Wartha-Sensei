@@ -13,18 +13,6 @@
 - Like Mod Games ⚡
 - And Likes a anime One Piece ⚡
 
-## Baca Keterangan Channel Youtube Wartha  Sensei
-
-- Kami membuka sesi tanya jawab di perselisihan (Discord).
-- Kami juga terbuka untuk saran mod selanjutnya atau request selanjutnya untuk video di perselisihan (Discord).
-- Jika mod minecraft java edition telah diunggah dihalaman YouTube Wartha Sensei, maka link tautan download akan disisipkan dideskripsi dibawah halaman ini.
-- Halaman ini bertujuan untuk para pencinta atau komunitas yang telah subcribe channel Wartha Sensei.
-- Kami 100% hanya penyedia atau perantara, untuk penghubung antara kamu dengan pihak penyedia yang sangat safe. Seperti curseforge.com
-- Dihari mendatang, kami akan membuat projek mod minecraft yang berbeda. Entah kapan...
-- Kami juga berharap akan menyediakan mod minecraft bedrock edition.
-- Video  yang  akan  datang kami akan  mengupload genre game  yang lain selain Minecraft  saja.
-- Jika kalian ini berkontribusi donasilah. Link ada  bipaling bawah  deskripsi. Menyediakan Paypal, Saweria.
-
 <br />
 <br />
 
@@ -77,17 +65,17 @@
 
 ---
 
-### 📺 List Download Mods Minecraft Java  Edition (ShowcaseWartha Sensei)
+### 📺 List Download Mods Minecraft Java  Edition (Showcase Wartha Sensei)
 
 <!-- YOUTUBE:START -->
-- [Java Edition](https://www.youtube.com/watch?v=JLyVyURIWG0)
+- [Showcase Mod Download](https://github.com/WarthaDev/WarthaSensei)
 - [Tutorial Download](https://www.youtube.com/watch?v=1ktrrwasouc)
 <!-- YOUTUBE:END -->
 
 ➡️ [Video Showcase Selengkapnya...](https://www.youtube.com/watch?v=GZ6pV6drdYo&list=PLzcvJwHyJlCfFWjeJ6TDTGqfQccRkHtC7)
 
 ---
-### 💲💲 Donation 💲💲
+### Donation
 
 </br>
 
