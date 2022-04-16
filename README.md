@@ -3,8 +3,6 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl-9254m-uLrnmWXyd2RxoQ?color=success&label=subscribers%20wartha%20sensei%20&logo=YouTube&style=for-the-badge)][YouTube]
 ![Twitter Follow](https://img.shields.io/twitter/follow/banu485?color=success&label=Follow%20Hewartsu&logo=Twitter&style=for-the-badge)
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Download Mods MinecraftJava Edition](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 ## Who I Really Am
 
@@ -27,7 +25,10 @@
 - Video  yang  akan  datang kami akan  mengupload genre game  yang lain selain Minecraft  saja.
 - Jika kalian ini berkontribusi donasilah. Link ada  bipaling bawah  deskripsi. Menyediakan Paypal, Saweria.
 
-### Connect with me:
+<br />
+<br />
+
+### Follow My As:
 
 [<img align="left" alt="Youtube" width="28px" src="./icons/youtubeplay.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="Discord" width="26px" src="./icons/discord.svg" style="padding-right:10px;" />][discord]
@@ -67,6 +68,7 @@
 [<img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="GitHub Light" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][youtube]
 
+<br />
 <br />
 <br />
 
