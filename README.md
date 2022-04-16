@@ -1,1 +1,0 @@
-# Wartha-Sensei
