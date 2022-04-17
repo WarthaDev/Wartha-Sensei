@@ -18,6 +18,16 @@
 
 <br />
 
+### Donation:
+
+<br />
+
+
+[<img align="left" alt="Paypal" width="23px" src="./icons/paypal.svg" style="padding-right:30px;" />][paypal]
+[<img align="left" alt="Saweria" width="26px" src="./icons/download.png" style="padding-right:30px;" />][saweria]
+
+<br />
+
 ### Follow My As:
 
 <br />
@@ -80,14 +90,7 @@
 
 ###  Donation
 
-<img align="right" alt="WarthaDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WarthaDev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-<br />
-<br />
-<br />
-
-[<img align="left" alt="Paypal" width="70px" src="./icons/paypal.svg" style="padding-right:30px;" />][paypal]
-[<img align="left" alt="Saweria" width="80px" src="./icons/download.png" style="padding-right:30px;" />][saweria]
+<img align="left" alt="WarthaDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WarthaDev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 <br />
 
