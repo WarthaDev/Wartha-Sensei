@@ -6,6 +6,8 @@
 
 ## Who I Really Am
 
+<br />
+
 - App Developer with (Android & Web) ⚡
 - Content Creator on YouTube ⚡
 - Music Composer ⚡
@@ -13,10 +15,12 @@
 - Like Mod Games ⚡
 - And Likes a anime One Piece ⚡
 
-<br />
+
 <br />
 
 ### Follow My As:
+
+<br />
 
 [<img align="left" alt="Youtube" width="28px" src="./icons/youtubeplay.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="Discord" width="26px" src="./icons/discord.svg" style="padding-right:10px;" />][discord]
@@ -29,9 +33,10 @@
 [<img align="left" alt="Amazon" width="26px" src="./icons/amazon.svg" style="padding-right:10px;" />][amazon]
 
 <br />
-<br />
 
 ### Languages and Tools:
+
+<br />
 
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][youtube]
@@ -59,33 +64,31 @@
 <br />
 <br />
 <br />
-<br />
-
-
 
 ---
 
 ### 📺 List Download Mods Minecraft Java  Edition (Showcase Wartha Sensei)
 
 <!-- YOUTUBE:START -->
-- [Showcase Mod Download](https://github.com/WarthaDev/WarthaSensei)
+- [Showcase Mod Minecraft Download](https://github.com/WarthaDev/WarthaSensei)
 - [Tutorial Download](https://www.youtube.com/watch?v=1ktrrwasouc)
 <!-- YOUTUBE:END -->
 
 ➡️ [Video Showcase Selengkapnya...](https://www.youtube.com/watch?v=GZ6pV6drdYo&list=PLzcvJwHyJlCfFWjeJ6TDTGqfQccRkHtC7)
 
 ---
-### Donation
 
-</br>
-
-[<img align="left" alt="Paypal" width="60px" src="./icons/paypal.svg" style="padding-right:35px;" />][paypal]
-[<img align="left" alt="Saweria" width="60px" src="./icons/download.png" style="padding-right:35px;" />][saweria]
-
-<br />
+###  Donation
 
 <img align="right" alt="WarthaDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WarthaDev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+<br />
+<br />
+
+[<img align="left" alt="Paypal" width="70px" src="./icons/paypal.svg" style="padding-right:30px;" />][paypal]
+[<img align="left" alt="Saweria" width="80px" src="./icons/download.png" style="padding-right:30px;" />][saweria]
+
+<br />
 
 [youtube]: https://youtube.com/c/warthasensei
 [discord]: https://discord.gg/sRMcaJtJdY
