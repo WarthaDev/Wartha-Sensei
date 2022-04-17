@@ -1,13 +1,8 @@
 # Hello Everyone, I'm WarthaDev - aka [Wartha Sensei][youtube] | [Hewartsu][spotify] 👋 
-
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl-9254m-uLrnmWXyd2RxoQ?color=success&label=subscribers%20wartha%20sensei%20&logo=YouTube&style=for-the-badge)][YouTube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/banu485?color=success&label=Follow%20Hewartsu&logo=Twitter&style=for-the-badge)][twitter]
 
-
 ## Who I Really Am
-
-<br />
-
 - App Developer with (Android & Web) ⚡
 - Content Creator on YouTube ⚡
 - Music Composer ⚡
@@ -16,22 +11,13 @@
 - And Likes a anime One Piece ⚡
 
 
-<br />
-
-### Donation:
-
-<br />
-
-
+## Donation:
 [<img align="left" alt="Paypal" width="23px" src="./icons/paypal.svg" style="padding-right:30px;" />][paypal]
 [<img align="left" alt="Saweria" width="26px" src="./icons/download.png" style="padding-right:30px;" />][saweria]
 
 <br />
 
-### Follow My As:
-
-<br />
-
+## Follow My As:
 [<img align="left" alt="Youtube" width="28px" src="./icons/youtubeplay.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="Discord" width="26px" src="./icons/discord.svg" style="padding-right:10px;" />][discord]
 [<img align="left" alt="Facebook" width="26px" src="./icons/facebook.svg" style="padding-right:10px;" />][facebook]
@@ -44,10 +30,7 @@
 
 <br />
 
-### Languages and Tools:
-
-<br />
-
+## Languages and Tools:
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][youtube]
@@ -71,8 +54,6 @@
 [<img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="GitHub Light" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][youtube]
 
-<br />
-<br />
 <br />
 
 ---
