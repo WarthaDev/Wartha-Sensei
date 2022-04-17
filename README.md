@@ -1,6 +1,8 @@
 # Hello Everyone, I'm WarthaDev - aka [Wartha Sensei][youtube] | [Hewartsu][spotify] 👋 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl-9254m-uLrnmWXyd2RxoQ?color=success&label=subscribers%20wartha%20sensei%20&logo=YouTube&style=for-the-badge)][YouTube]
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl-9254m-uLrnmWXyd2RxoQ?color=success&label=Subscribers%20Wartha%20Sensei&logo=YouTube&logoColor=red&style=for-the-badge)][YouTube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/banu485?color=success&label=Follow%20Hewartsu&logo=Twitter&style=for-the-badge)][twitter]
+[![Live Watch](https://img.shields.io/github/watchers/WarthaDev/WarthaSensei?color=blue&label=%20Wartha%20Dev%20%7C%20%20Wartha%20Sensei&logo=GitHub&logoColor=white&style=for-the-badge)][watch]
 
 ## Who I Really Am
 - App Developer with (Android & Web) ⚡
@@ -16,6 +18,7 @@
 [<img align="left" alt="Saweria" width="26px" src="./icons/download.png" style="padding-right:30px;" />][saweria]
 
 <br />
+<br />
 
 ## Follow My As:
 [<img align="left" alt="Youtube" width="28px" src="./icons/youtubeplay.svg" style="padding-right:10px;" />][youtube]
@@ -28,6 +31,7 @@
 [<img align="left" alt="Itunes" width="26px" src="./icons/itunes.svg" style="padding-right:10px;" />][apple]
 [<img align="left" alt="Amazon" width="26px" src="./icons/amazon.svg" style="padding-right:10px;" />][amazon]
 
+<br />
 <br />
 
 ## Languages and Tools:
@@ -54,6 +58,9 @@
 [<img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="GitHub Light" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][youtube]
 
+<br />
+<br />
+<br />
 <br />
 
 ---
@@ -86,4 +93,5 @@
 [amazon]: http://amzn.to/3tIGbCA
 [paypal]: https://paypal.me/hewartsu?country.x=ID&locale.x=id_ID
 [saweria]: https://saweria.co/Warth
+[watch]: https://github.com/WarthaDev/WarthaSensei
 
