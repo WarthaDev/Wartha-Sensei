@@ -84,6 +84,7 @@
 
 <br />
 <br />
+<br />
 
 [<img align="left" alt="Paypal" width="70px" src="./icons/paypal.svg" style="padding-right:30px;" />][paypal]
 [<img align="left" alt="Saweria" width="80px" src="./icons/download.png" style="padding-right:30px;" />][saweria]
