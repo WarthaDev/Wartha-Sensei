@@ -25,6 +25,7 @@
 [<img align="left" alt="Facebook" width="26px" src="./icons/facebook.svg" style="padding-right:10px;" />][facebook]
 [<img align="left" alt="Twitter" width="26px" src="./icons/twitter.svg" style="padding-right:10px;" />][twitter]
 [<img align="left" alt="Instagram" width="26px" src="./icons/instagram.svg" style="padding-right:10px;" />][instagram]
+[<img align="left" alt="Twitch" width="26px" src="./icons/twitch.svg" style="padding-right:10px;" />][twitch]
 [<img align="left" alt="ShoundCloud" width="26px" src="./icons/soundcloud.svg" style="padding-right:10px;" />][soundcloud]
 [<img align="left" alt="Spotify" width="26px" src="./icons/spotify.svg" style="padding-right:10px;" />][spotify]
 [<img align="left" alt="Itunes" width="26px" src="./icons/itunes.svg" style="padding-right:10px;" />][apple]
@@ -84,6 +85,7 @@
 [facebook]: https://facebook.com/hewartsu28
 [twitter]: https://twitter.com/banu485
 [instagram]: https://instagram.com/hewartsu
+[twitch]: https://www.twitch.tv/hewartsu
 [soundcloud]: https://soundcloud.com/hewartsu
 [spotify]: http://spoti.fi/3wCgFAJ
 [apple]: http://apple.co/3DeI1Oq
