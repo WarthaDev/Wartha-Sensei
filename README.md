@@ -26,11 +26,11 @@
 [<img align="left" alt="Twitter" width="26px" src="./icons/twitter.svg" style="padding-right:10px;" />][twitter]
 [<img align="left" alt="Instagram" width="26px" src="./icons/instagram.svg" style="padding-right:10px;" />][instagram]
 [<img align="left" alt="Twitch" width="26px" src="./icons/twitch.svg" style="padding-right:10px;" />][twitch]
-[<img align="left" alt="ShoundCloud" width="26px" src="./icons/soundcloud.svg" style="padding-right:10px;" />][soundcloud]
+[<img align="left" alt="Tiktok" width="26px" src="./icons/tiktok.svg" style="padding-right:10px;" />][tiktok]
 [<img align="left" alt="Spotify" width="26px" src="./icons/spotify.svg" style="padding-right:10px;" />][spotify]
+[<img align="left" alt="ShoundCloud" width="26px" src="./icons/soundcloud.svg" style="padding-right:10px;" />][soundcloud]
 [<img align="left" alt="Itunes" width="26px" src="./icons/itunes.svg" style="padding-right:10px;" />][apple]
 [<img align="left" alt="Amazon" width="26px" src="./icons/amazon.svg" style="padding-right:10px;" />][amazon]
-[<img align="left" alt="Tiktok" width="26px" src="./icons/tiktok.svg" style="padding-right:10px;" />][tiktok]
 
 <br />
 <br />
