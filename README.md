@@ -24,6 +24,7 @@
 [<img align="left" alt="Discord" width="26px" src="./icons/discord.svg" style="padding-right:10px;" />][discord]
 [<img align="left" alt="Facebook" width="26px" src="./icons/facebook.svg" style="padding-right:10px;" />][facebook]
 [<img align="left" alt="Twitter" width="26px" src="./icons/twitter.svg" style="padding-right:10px;" />][twitter]
+[<img align="left" alt="Tiktok" width="26px" src="./icons/tiktok-black-icon.svg" style="padding-right:10px;" />][tiktok]
 [<img align="left" alt="Instagram" width="26px" src="./icons/instagram.svg" style="padding-right:10px;" />][instagram]
 [<img align="left" alt="Twitch" width="26px" src="./icons/twitch.svg" style="padding-right:10px;" />][twitch]
 [<img align="left" alt="ShoundCloud" width="26px" src="./icons/soundcloud.svg" style="padding-right:10px;" />][soundcloud]
@@ -38,6 +39,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][youtube]
+[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  style="padding-right:10px;" />][youtube]
 [<img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />][youtube]
@@ -46,7 +48,6 @@
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="Apache" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" style="padding-right:10px;" />][youtube]
-[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c-sharp.svg"  style="padding-right:10px;" />][youtube]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][youtube]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][youtube]
@@ -84,6 +85,7 @@
 [discord]: https://discord.gg/sRMcaJtJdY
 [facebook]: https://facebook.com/hewartsu28
 [twitter]: https://twitter.com/banu485
+[tiktok]: https://tiktok.com/@hewartsu?lang=id-ID&is_from_webapp=1&sender_device=mobile&sender_web_id=7175635868638758401
 [instagram]: https://instagram.com/hewartsu
 [twitch]: https://www.twitch.tv/hewartsu
 [soundcloud]: https://soundcloud.com/hewartsu
