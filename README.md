@@ -1,8 +1,6 @@
 # Hello Everyone, I'm WarthaDev - aka [Wartha Sensei][youtube] | [Hewartsu][spotify] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl-9254m-uLrnmWXyd2RxoQ?color=success&label=Subscribers%20Wartha%20Sensei&logo=YouTube&logoColor=red&style=for-the-badge)][YouTube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/banu485?color=success&label=Follow%20Hewartsu&logo=Twitter&style=for-the-badge)][twitter]
-[![Live Watch](https://img.shields.io/github/watchers/WarthaDev/WarthaSensei?color=blue&label=%20Wartha%20Dev%20%7C%20%20Wartha%20Sensei&logo=GitHub&logoColor=white&style=for-the-badge)][watch]
 
 ## Who I Really Am
 - App Developer with (Android & Web) ⚡
